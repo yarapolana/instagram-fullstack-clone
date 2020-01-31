@@ -37,3 +37,22 @@ To run
 | yarn |  yarn| yarn| 
 | yarn dev  | yarn start | yarn ios | 
 
+---
+
+<h4> Check out my AirBnB clone called AirCnC <a href="https://github.com/yarapolana/airbnb-code-clone">here</a>.</h4>
+
+---
+### License:
+
+This project is made available under the [MIT LICENSE](LICENSE.md).
+
+### Authors:
+
+<p>
+  <a href="https://github.com/yarapolana">
+    <img src="https://avatars0.githubusercontent.com/u/19730118?s=460&v=4" width="50" height="50">
+  </a>
+  <a href="https://dotcode.is">
+    <img src="https://dotcode.is/images/logo_dark.svg" width="50" height="50">
+  </a>
+</p>
